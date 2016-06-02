@@ -1,16 +1,22 @@
-# nano-blue
+# nano-blue2
 **A (bluebird promisified) minimalistic couchdb driver for node.js**
+*just a fork of [nano-blue](https://github.com/bdchauvette/nano-blue) with updated dependencies*
 
 `nano-blue` wraps [nano][] in [bluebird-flavored][] promises.
 
 [nano]: http://github.com/dscape/nano
 [bluebird-flavored]: http://github.com/petkaantonov/bluebird
 
+## Installation
+```sh
+npm install --save nano-blue2
+```
+
 ## Example
 A rewriting of the first example from the `nano` docs:
 
 ```javascript
-var nano = require('nano-blue')('http://localhost:5984');
+var nano = require('nano-blue2')('http://localhost:5984');
 
 // specify the database we are going to use
 var alice = nano.use('alice');

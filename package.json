@@ -1,11 +1,11 @@
 {
   "name": "nano-blue2",
   "version": "0.3.4",
-  "description": "A fork of nano-blue with updated dependencies",
+  "description": "A (bluebird promisified) minimalistic couchdb driver for node.js. (This is a fork of nano-blue with updated dependencies)",
   "main": "lib/nano-blue.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bdchauvette/nano-blue"
+    "url": "git://github.com/maxlath/nano-blue2"
   },
   "keywords": [
     "couchdb",
@@ -23,7 +23,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdchauvette/nano-blue/issues"
+    "url": "https://github.com/maxlath/nano-blue2/issues"
   },
   "dependencies": {
     "bluebird": "^3.4.0",
