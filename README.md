@@ -1,8 +1,9 @@
 # nano-blue2
 **A (bluebird promisified) minimalistic couchdb driver for node.js**
-*just a fork of [nano-blue](https://github.com/bdchauvette/nano-blue) with updated dependencies*
 
-`nano-blue` wraps [nano][] in [bluebird-flavored][] promises.
+*This is just a fork of [nano-blue](https://github.com/bdchauvette/nano-blue) with updated dependencies*
+
+`nano-blue2` wraps [nano][] in [bluebird-flavored][] promises.
 
 [nano]: http://github.com/dscape/nano
 [bluebird-flavored]: http://github.com/petkaantonov/bluebird
