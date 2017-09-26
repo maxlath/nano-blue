@@ -1,6 +1,6 @@
 {
   "name": "nano-blue2",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "A (bluebird promisified) minimalistic couchdb driver for node.js. (This is a fork of nano-blue with updated dependencies)",
   "main": "lib/nano-blue.js",
   "repository": {
