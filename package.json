@@ -26,8 +26,8 @@
     "url": "https://github.com/maxlath/nano-blue2/issues"
   },
   "dependencies": {
-    "bluebird": "^3.4.0",
-    "lodash.transform": "^4.4.0",
-    "nano": "^6.2.0"
+    "bluebird": "^3.5.0",
+    "lodash.transform": "^4.6.0",
+    "nano": "^6.4.2"
   }
 }
